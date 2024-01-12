@@ -1,1 +1,2 @@
-# Owner-avatar-Single_Phase_Unipolar_Pulse_Width_Modulation_Inverte-
+# Owner avatar Single Phase Unipolar Pulse Width Modulation Inverter
+# Performed simulation of a single-phase full bridge inverter with unipolar PWM technique using MATLAB-simulink
